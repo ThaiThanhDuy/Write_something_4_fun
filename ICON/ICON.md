@@ -4,4 +4,4 @@ Visual studio code  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9
 
 Using <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="50px" alt="Unity"/>
 
-Using <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F306166%2Fc-programming-language&psig=AOvVaw1gUdvaCdqnafKP7VLZqWVE&ust=1677978418706000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDNyoGLwf0CFQAAAAAdAAAAABAa" width="30px" alt="C"/>
+Using <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30px" alt="C"/>
