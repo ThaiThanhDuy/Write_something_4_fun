@@ -8,4 +8,4 @@ Using <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programmin
 
 Using <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="30px" alt="C++"/>
 
-Using <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="350px" alt="C#"/>
+Using <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50px" alt="C#"/>
