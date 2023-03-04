@@ -4,8 +4,8 @@ Visual studio code  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9
 
 Using <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="50px" alt="Unity"/>
 
-Using <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" width="20px" alt="C"/>
+Using <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/c_logo_icon.png" width="25px" alt="C"/>
 
-Using <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/cplusplus_logo_icon.png" width="20px" alt="C++"/>
+Using <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/cplusplus_logo_icon.png" width="25px" alt="C++"/>
 
-Using <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/csharp_logo_icon.png" width="20px" alt="C#"/>
+Using <img src="https://github.com/ThaiThanhDuy/Write_something_4_fun/blob/main/ICON/iconImage/csharp_logo_icon.png" width="25px" alt="C#"/>
